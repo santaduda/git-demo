@@ -18,3 +18,5 @@ Proin faucibus leo sed tortor interdum dignissim. Nunc placerat varius massa id 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc volutpat vel sem eu egestas. In imperdiet et eros in rutrum. Integer et nunc lacus. Curabitur pellentesque mi id elit porta, at luctus elit cursus. Suspendisse dolor felis, dapibus at mi quis, feugiat finibus ex. Curabitur vitae imperdiet magna, vel viverra nibh. Duis rhoncus massa vel arcu vehicula semper. Fusce quam nulla, accumsan maximus nisl ut, efficitur suscipit turpis. Ut in erat justo. In hac habitasse platea dictumst. Integer malesuada commodo ex quis auctor. Integer est felis, iaculis ac felis eget, ultricies tempus diam. Phasellus viverra lectus et risus volutpat tristique.
 
 Requirement 6
+Created help.txt to understand requirement 6 better.
+

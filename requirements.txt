@@ -21,4 +21,4 @@ Requirement 6
 Created help.txt to understand requirement 6 better.
 
 Requirement 7:
-Bla bla bla..
+La la la!
